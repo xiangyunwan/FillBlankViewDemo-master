@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FillBlankView">
+        <attr name="blankNum" format="integer"/>
+        <attr name="blankSpace" format="dimension"/>
+        <attr name="blankSolidColor" format="color"/>
+        <attr name="blankStrokeColor" format="color"/>
+        <attr name="blankStrokeWidth" format="dimension"/>
+        <attr name="blankCornerRadius" format="dimension"/>
+        <attr name="hideText" format="boolean"/>
+        <attr name="dotSize" format="dimension"/>
+        <attr name="dotColor" format="color"/>
+        <attr name="textMatchedColor" format="color"/>
+        <attr name="textNotMatchedColor" format="color"/>
+    </declare-styleable>
+</resources>
